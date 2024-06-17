@@ -263,14 +263,6 @@ submission.to_csv("submission_parvej.csv",index=False)
 new
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
